@@ -21,7 +21,7 @@ const greetings = [
   "Merry Christmas",
   "圣诞节",
   "Merry Christmas",
-  "KFC V 我50",
+  "李亚楠",
 ];
 let tree = document.querySelector(".tree"),
   treeRotation = 0;
