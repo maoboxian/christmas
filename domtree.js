@@ -4,24 +4,15 @@ const quantity = 150; //树枝的数量
 const types = ["text", "select", "progress", "meter", "button", "radio", "checkbox"];
 const greetings = [
   //文字
-  "小李子",
-  "菜包子",
+  "魏颖",
+  "魏老师",
+  "圣诞快乐",
   "Merry Christmas",
-  "Merry Christmas",
-  "Merry Christmas",
-  "小杨",
-  "饼老师",
+  "天天开心",
+  "圣诞快乐",
   "12月25",
-  "蟹老板",
+  "教师编上岸",
   "Merry Christmas",
-  " 小杨",
-  " 毛毛省考必上岸！",
-  "12月25",
-  "老月亮！",
-  "Merry Christmas",
-  "圣诞节",
-  "Merry Christmas",
-  "李亚楠",
 ];
 let tree = document.querySelector(".tree"),
   treeRotation = 0;
